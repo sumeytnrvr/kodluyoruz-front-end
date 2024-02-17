@@ -1,0 +1,40 @@
+.image{
+margin-left: 37%;
+margin-top: 5%;
+}
+
+.article {
+    text-align: center; /* İçerikleri ortalamak için */
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: gainsboro;
+}
+.button-container {
+    margin-top: 10px; /* Butonları input alanından biraz aşağıda başlatmak için */
+}
+
+.button-container button {
+    margin-right: 10px; /* Butonlar arasında biraz boşluk bırakmak için */
+}
+.google-links {
+    width: 50%; /* Tablo hücrelerinin yarısını kaplayacak şekilde genişlik belirleme */
+    vertical-align: top; /* İçeriği yukarıda hizalamak için */
+    display: inline-block; /* Hücrelerin yan yana gelmesini sağlamak için */
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 10px;
+    text-align: center;
+    width: 33.33%;
+}
+footer{
+    margin-top: 30px;
+}
+.mg{
+    margin-right: 100px;
+    margin-left: 100px;
+}
